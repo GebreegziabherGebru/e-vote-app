@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a676c8e7-5c02-4a24-b762-240c778e9092/resourceGroups/gebreegziabher-gebru/providers/Microsoft.Web/sites/evotterapp",
+    "appService.deploySubpath": "."
+}
